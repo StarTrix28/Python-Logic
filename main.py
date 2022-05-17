@@ -1,4 +1,4 @@
-loop = True;
+loop = True
 
 
 def OR(A, B):
